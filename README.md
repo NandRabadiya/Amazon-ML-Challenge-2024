@@ -1,3 +1,5 @@
+# Team: The_Techies 👩🏻‍💻🧑🏻‍💻
+
 # ML Challenge Problem Statement
 
 ## Feature Extraction from Images
