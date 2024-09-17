@@ -5,12 +5,13 @@
 <a href="https://www.linkedin.com/in/nand-rabadiya/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" /></a>
 
 - Venu Virparia <a href="https://github.com/venuvirparia" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="20" height="20" /></a>
-<a href="https://www.linkedin.com/in/venu-virparia/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" /></a>
+  <a href="https://www.linkedin.com/in/venu-virparia/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" /></a>
     
 - Smit Shah <a href="https://github.com/smitshah084" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="20" height="20" /></a>
+  <a href="https://www.linkedin.com/in/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" /></a>
   
 - Diya Prajapati <a href="https://github.com/diyaprajapati" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="20" height="20" /></a>
-
+  <a href="https://www.linkedin.com/in/diya-prajapati-453858267/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" /></a>
 ---
 
 ### 1. **Introduction**  
